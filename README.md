@@ -27,8 +27,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```
-# Developed By: PRIYANKA K
-# Register Number: 212223230162
+# Developed By: YASHWINI M
+# Register Number: 212223230249
 ```
 
 
