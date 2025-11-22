@@ -54,14 +54,19 @@ plt.title('Equalized Histogram')
 
 ```
 
+
+
+
+
+
+
+
+
 ## Output:
+<img width="705" height="501" alt="image" src="https://github.com/user-attachments/assets/137eda2d-069b-4430-bba7-301a88dbc951" />
 
-<img width="712" height="413" alt="image" src="https://github.com/user-attachments/assets/b3edc61e-8d42-4e47-ba65-19558542714b" />
-
-<img width="724" height="545" alt="image" src="https://github.com/user-attachments/assets/0b2c18c2-7e42-42b6-bb35-4daca419a8b6" />
-
-<img width="725" height="549" alt="image" src="https://github.com/user-attachments/assets/8d4e71db-abb0-4e55-92cb-116e21cfa231" />
-
+<img width="752" height="540" alt="image" src="https://github.com/user-attachments/assets/08e32189-3e4c-4410-970e-a90e8bc1a847" />
+<img width="747" height="561" alt="image" src="https://github.com/user-attachments/assets/15b7382c-2c8a-4dcc-968c-1fda218b442a" />
 
 ## Histogram of Color Image
 ``` python
@@ -79,13 +84,9 @@ plt.show()
 ```
 
 ## OUTPUT
-
-<img width="719" height="419" alt="image" src="https://github.com/user-attachments/assets/0824af26-c4bd-45a1-807b-34cee5e0d553" />
-
-<img width="706" height="414" alt="image" src="https://github.com/user-attachments/assets/2cd64e72-bc69-4571-92e8-543028fadd4d" />
-
-<img width="732" height="549" alt="image" src="https://github.com/user-attachments/assets/58dc351e-0d2b-463c-83e5-a9177f1c4255" />
-
+<img width="711" height="499" alt="image" src="https://github.com/user-attachments/assets/95f61691-04b6-42d5-ac95-3b8ae7cc6527" />
+<img width="711" height="481" alt="image" src="https://github.com/user-attachments/assets/adae27d3-a76f-47bf-b261-8e0dd2a31ef5" />
+<img width="735" height="536" alt="image" src="https://github.com/user-attachments/assets/4117281e-b1a9-4d48-87f5-00e4dd92f0c3" />
 
 ## Histogram Equilization of GrayScale Image
 ``` python
@@ -103,10 +104,9 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ```
 
 ## OUTPUT
+<img width="739" height="533" alt="image" src="https://github.com/user-attachments/assets/eabcadcf-377a-493c-b91d-933ca3982072" />
+<img width="1380" height="449" alt="image" src="https://github.com/user-attachments/assets/afda865e-03c9-4e0f-ad22-f0d7ac86e41d" />
 
-<img width="723" height="514" alt="image" src="https://github.com/user-attachments/assets/bf41fd29-dccd-4a31-8c84-e393708a85bf" />
-
-<img width="785" height="243" alt="image" src="https://github.com/user-attachments/assets/0a7cfa7b-2bd5-4abc-873c-24354eae7c46" />
 
 ## RESULT
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
